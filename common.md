@@ -145,7 +145,7 @@ Reference this group by using
 | [type](#type)               | `string` | Required | cannot be null | [Common types](common-definitions-entityreference-properties-type.md "https://streaminlinedata.ai/type/common.json#/definitions/entityReference/properties/type")               |
 | [name](#name)               | `string` | Optional | cannot be null | [Common types](common-definitions-entityreference-properties-name.md "https://streaminlinedata.ai/type/common.json#/definitions/entityReference/properties/name")               |
 | [description](#description) | `string` | Optional | cannot be null | [Common types](common-definitions-entityreference-properties-description.md "https://streaminlinedata.ai/type/common.json#/definitions/entityReference/properties/description") |
-| [href](#href)               | `string` | Optional | cannot be null | [Common types](common-definitions-entityreference-properties-href.md "https://streaminlinedata.ai/type/common.json#/definitions/entityReference/properties/href")               |
+| [href](#href)               | `string` | Optional | cannot be null | [Common types](common-definitions-href.md "https://streaminlinedata.ai/type/common.json#/definitions/entityReference/properties/href")               |
 
 ### id
 
