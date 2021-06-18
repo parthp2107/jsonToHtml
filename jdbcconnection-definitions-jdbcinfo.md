@@ -10,7 +10,7 @@ https://streaminlinedata.ai/type/jdbcConnection.json#/definitions/jdbcInfo
 
 | Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                |
 | :------------------ | :--------- | :------------- | :----------- | :---------------- | :-------------------- | :------------------ | :------------------------------------------------------------------------ |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [jdbcConnection.json*](../out/jdbcConnection.json "open original schema") |
+| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [jdbcConnection.json*](jdbcConnection.md "open original schema") |
 
 ## jdbcInfo Type
 

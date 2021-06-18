@@ -8,7 +8,7 @@ Type used for capturing and reporting usage report of an entity
 
 | Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                         |
 | :------------------ | :--------- | :------------- | :----------- | :---------------- | :-------------------- | :------------------ | :----------------------------------------------------------------- |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [usageReport.json](../out/usageReport.json "open original schema") |
+| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [usageReport.json](usageReport.md "open original schema") |
 
 ## Usage report for an entity Type
 

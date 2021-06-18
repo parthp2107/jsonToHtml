@@ -8,7 +8,7 @@ Schema corresponding to BigQuery service entity
 
 | Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                            |
 | :------------------ | :--------- | :------------- | :----------- | :---------------- | :-------------------- | :------------------ | :-------------------------------------------------------------------- |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [bigQuery.json](../out/services/bigQuery.json "open original schema") |
+| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [bigQuery.json](bigquery.md "open original schema") |
 
 ## BigQuery service entity Type
 

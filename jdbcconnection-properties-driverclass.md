@@ -10,7 +10,7 @@ https://streaminlinedata.ai/type/jdbcConnection.json#/properties/driverClass
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                |
 | :------------------ | :--------- | :------------- | :---------------------- | :---------------- | :-------------------- | :------------------ | :------------------------------------------------------------------------ |
-| Can be instantiated | No         | Unknown status | Unknown identifiability | Forbidden         | Allowed               | none                | [jdbcConnection.json*](../out/jdbcConnection.json "open original schema") |
+| Can be instantiated | No         | Unknown status | Unknown identifiability | Forbidden         | Allowed               | none                | [jdbcConnection.json*](jdbcConnection.md "open original schema") |
 
 ## driverClass Type
 
