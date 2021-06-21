@@ -1,1 +1,7 @@
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layouts: "default"
 theme: jekyll-theme-cayman
