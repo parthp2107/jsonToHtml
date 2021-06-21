@@ -1,6 +1,3 @@
----
-layout: default
----
 # Common types Schema
 
 ```txt
