@@ -1,7 +1,4 @@
----
-layout: default
-title: Common types Schema
----
+## Common types Schema
 
 ```txt
 https://streaminlinedata.ai/type/common.json
@@ -144,7 +141,7 @@ Reference this group by using
 
 | Property                    | Type     | Required | Nullable       | Defined by                                                                                                                                                                      |
 | :-------------------------- | :------- | :------- | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [id](#id)                   | `string` | Required | cannot be null | [Common types](common-definitions-entityreference-properties-id.md "https://streaminlinedata.ai/type/common.json#/definitions/entityReference/properties/id")                   |
+| [id](#id)                   | `string` | Required | cannot be null | [Common types](common-definitions-uuid.md "https://streaminlinedata.ai/type/common.json#/definitions/entityReference/properties/id")                   |
 | [type](#type)               | `string` | Required | cannot be null | [Common types](common-definitions-entityreference-properties-type.md "https://streaminlinedata.ai/type/common.json#/definitions/entityReference/properties/type")               |
 | [name](#name)               | `string` | Optional | cannot be null | [Common types](common-definitions-entityreference-properties-name.md "https://streaminlinedata.ai/type/common.json#/definitions/entityReference/properties/name")               |
 | [description](#description) | `string` | Optional | cannot be null | [Common types](common-definitions-entityreference-properties-description.md "https://streaminlinedata.ai/type/common.json#/definitions/entityReference/properties/description") |

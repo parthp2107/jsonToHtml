@@ -139,8 +139,8 @@ Reference this group by using
 
 | Property                          | Type     | Required | Nullable       | Defined by                                                                                                                                                                               |
 | :-------------------------------- | :------- | :------- | :------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [driverClass](#driverclass-1)     | `string` | Required | cannot be null | [JDBC connection](jdbcconnection-definitions-jdbcinfo-properties-driverclass.md "https://streaminlinedata.ai/type/jdbcConnection.json#/definitions/jdbcInfo/properties/driverClass")     |
-| [connectionUrl](#connectionurl-1) | `string` | Required | cannot be null | [JDBC connection](jdbcconnection-definitions-jdbcinfo-properties-connectionurl.md "https://streaminlinedata.ai/type/jdbcConnection.json#/definitions/jdbcInfo/properties/connectionUrl") |
+| [driverClass](#driverclass-1)     | `string` | Required | cannot be null | [JDBC connection](jdbcconnection-properties-driverclass.md "https://streaminlinedata.ai/type/jdbcConnection.json#/definitions/jdbcInfo/properties/driverClass")     |
+| [connectionUrl](#connectionurl-1) | `string` | Required | cannot be null | [JDBC connection](jdbcconnection-properties-connectionurl.md "https://streaminlinedata.ai/type/jdbcConnection.json#/definitions/jdbcInfo/properties/connectionUrl") |
 
 ### driverClass
 
