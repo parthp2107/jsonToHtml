@@ -1,4 +1,7 @@
-# Common types Schema
+---
+layout: default
+title: Common types Schema
+---
 
 ```txt
 https://streaminlinedata.ai/type/common.json
