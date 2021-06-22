@@ -2,7 +2,7 @@
 
 ## Top-level Schemas
 
-*   [Common types](./common.md "Common reusable types") – `https://streaminlinedata.ai/type/common.json`
+*   [Common types](common.md) – `https://streaminlinedata.ai/type/common.json`
 
 *   [JDBC connection](./jdbcconnection.md "JDBC connection information used for connecting to a database system") – `https://streaminlinedata.ai/type/jdbcConnection.json`
 
