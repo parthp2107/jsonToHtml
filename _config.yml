@@ -1,7 +1,1 @@
-defaults:
-  -
-    scope:
-      path: "jsonToHtml"
-    values:
-      layouts: "default"
 theme: jekyll-theme-cayman

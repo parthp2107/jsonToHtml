@@ -1,3 +1,8 @@
+---
+layout: default
+title: Common Schema
+permalink: ./common.md
+---
 ## Common types Schema
 
 ```txt
