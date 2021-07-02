@@ -1,43 +1,28 @@
-# README
+## Entities
 
-## Top-level Schemas
+* [Bot entity](Entities/Bot/bots.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/entity/bots.json`
+* [Dashboard entity](Entities/Dashboard/dashboard.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/entity/data/dashboard.json`
+* [Database entity](Entities/Database/database.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/entity/data/database.json`
+* [Database service entity](Entities/Database-Service/databaseservice.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/entity/services/databaseService.json`
+* [Feed entity](Entities/Feed/thread.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/entity/feed/thread.json`
+* [Metrics entity](Entities/Metrics/metrics.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/entity/data/metrics.json`
+* [Pipeline entity](Entities/Pipeline/pipeline.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/entity/data/pipeline.json`
+* [Report entity](Entities/Report/report.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/entity/data/report.json`
+* [Table entity](Entities/Table/table.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/entity/data/table.json`
+* [Team entity](Entities/Team/team.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/entity/teams/team.json`
+* [Types related to tag category](Entities/Tag-Catrgory/tagcategory.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/entity/tags/tagCategory.md`
+* [User entity](Entities/User/user.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/entity/teams/user.json`
 
-*   [Common types](common.md) – `https://streaminlinedata.ai/type/common.json`
+## Types
 
-*   [JDBC connection](./jdbcconnection.md "JDBC connection information used for connecting to a database system") – `https://streaminlinedata.ai/type/jdbcConnection.json`
+* [Usage details for an entity class](Types/Category-Usage/categoryusage.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/type/categoryUsage.json`
+* [Data classification related types](Types/Classification/classification.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/type/classification.json`
+* [Schema for collection descriptor](Types/Collection-descriptor/collectiondescriptor.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/type/collectionDescriptor.json`
+* [Common types](Types/Common/common.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/type/common.json`
+* [Usage details of an entity](Types/Entity-Usage/entityusage.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/type/entityUsage.json`
+* [JDBC connection](Types/Jdbc-Connection/jdbcconnection.md) – `https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/type/jdbcConnection.json`
 
-*   [Schema for collection descriptor](./collectiondescriptor.md "Type used for capturing the details of a collection") – `https://streaminlinedata.ai/type/collection.json`
+### Version Note
 
-*   [Usage details for an entity class](./categoryusage.md "Type used for capturing usage details of an entity class") – `https://streaminlinedata.ai/type/categoryUsage.json`
+The schemas linked above follow the JSON Schema Spec version: `http://json-schema.org/draft-07/schema#`
 
-*   [Usage details of an entity](./entityusage.md "Type used for capturing usage details of an entity") – `https://streaminlinedata.ai/type/entityUsage.json`
-
-*   [Usage report for an entity](./usagereport.md "Type used for capturing and reporting usage report of an entity") – `https://streaminlinedata.ai/type/usageReport.json`
-
-*   [BigQuery service entity](./bigquery.md "Schema corresponding to BigQuery service entity") – `https://streaminlinedata.ai/entity/services/bigQuery.json`
-
-*   [Bot entity](./bots.md "Bot entity to capture the details of a bot") – `https://streaminlinedata.ai/entity/bots.json`
-
-*   [Dashboard entity](./dashboard.md "Entity that represents a Dashboard") – `https://streaminlinedata.ai/entity/data/dashboard.json`
-
-*   [Database entity](./database.md "Entity that represents a database") – `https://streaminlinedata.ai/entity/data/database.json`
-
-*   [Feed entity](./thread.md "Entity that represents a feed") – `https://streaminlinedata.ai/entity/thread.json`
-
-*   [Metrics entity](./metrics.md "Entity that represents a Metrics") – `https://streaminlinedata.ai/entity/data/metrics.json`
-
-*   [MySQL service entity](./mysql.md "Schema corresponding to MySQL service entity") – `https://streaminlinedata.ai/entity/services/mysql.json`
-
-*   [Pipeline entity](./pipeline.md "Entity that represents a Pipeline") – `https://streaminlinedata.ai/entity/data/pipeline.json`
-
-*   [Redshift service entity](./redshift.md "Schema corresponding to Redshift service entity") – `https://streaminlinedata.ai/entity/services/redshift.json`
-
-*   [Report entity](./report.md "Entity that represents a Report") – `https://streaminlinedata.ai/entity/data/report.json`
-
-*   [Snowflake service entity](./snowflake.md "Schema corresponding to Snowflake service entity") – `https://streaminlinedata.ai/entity/services/snowflake.json`
-
-*   [Table entity](./table.md "Schema corresponding to a table that belongs to a database") – `https://streaminlinedata.ai/entity/data/table.json`
-
-*   [Team entity](./team.md "Team entity") – `https://streaminlinedata.ai/entity/team/team.json`
-
-*   [User entity](./user.md "User entity that is part of an organization") – `https://streaminlinedata.ai/entity/team/user.json`

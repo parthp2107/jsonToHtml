@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+# Untitled array in Types related to tag category Schema
+
+```text
+https://github.com/StreamlineData/catalog/blob/master/catalog-rest-service/src/main/resources/json/schema/entity/tags/tagCategory.md#/definitions/tag/properties/tags
+```
+
+Fully qualified names of tags associated with this tag
+
+| Abstract | Extensible | Status | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Can be instantiated | No | Unknown status | Unknown identifiability | Forbidden | Allowed | none | \[tagCategory.json\*\]tagcategory.md |
+
+## tags Type
+
+`string[]`
+
